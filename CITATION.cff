@@ -1,0 +1,35 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the software and the associated manuscript."
+title: "Breast Cancer Recurrence Prediction Using Real-World Clinical Data from Saudi Arabia"
+type: software
+version: 1.0.0
+date-released: 2026-09-26
+authors:
+  - family-names: Khan
+    given-names: Ousman
+  - family-names: Rahman
+    given-names: Atta Ur
+  - family-names: Albashrawi
+    given-names: Mousa
+  - family-names: Almohanna
+    given-names: Hani
+  - family-names: Almsned
+    given-names: Fahad
+  - family-names: Al-Battal
+    given-names: Abdullah F.
+  - family-names: Ajadi
+    given-names: Jimoh Olawale
+license: MIT
+abstract: >-
+  Reproducible Python analysis code for cohort construction, descriptive
+  analysis, repeated nested cross-validation, performance evaluation,
+  interpretation, ablation, and sensitivity analyses for five-year breast
+  cancer recurrence prediction using routinely collected clinical data.
+keywords:
+  - breast cancer recurrence
+  - machine learning
+  - nested cross-validation
+  - calibration
+  - clinical prediction model
+  - Saudi Arabia
+
