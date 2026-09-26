@@ -1,0 +1,15 @@
+.DS_Store
+.ipynb_checkpoints/
+.venv/
+__pycache__/
+*.py[cod]
+
+# Restricted and generated study material
+Data/Raw/*
+Data/Processed/*
+Results/*
+
+# Permit empty directory placeholders
+!Data/Raw/.gitkeep
+!Data/Processed/.gitkeep
+!Results/.gitkeep
