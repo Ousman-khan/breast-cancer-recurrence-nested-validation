@@ -80,4 +80,4 @@ The analysis code is released under the MIT License. The license does not apply 
 
 ## Citation
 
-Please use the citation information supplied in `CITATION.cff`. The archived repository is available through Zenodo at https://doi.org/10.5281/zenodo.22982804.
+Please use the citation information supplied in `CITATION.cff`. The archived repository is available through Zenodo at https://doi.org/10.5281/zenodo.22982803.
