@@ -1,0 +1,301 @@
+Age_at_Diagnosis,Tumor_Size_mm,Marital_Status,Nationality,Menopause_Status,Breast_Cancer_Family_History,Primary_Site_Group,Laterality,Histology_Group,Tumor_Grade,Summary_Stage,ER_Status,PR_Status,HER2_Status,Surgery,Chemotherapy,Hormone_Therapy,Five_Year_Recurrence
+40.0,28.7,Married,Saudi,Premenopausal,No,Upper outer quadrant,Right,Ductal,Grade 2,Localized,Negative,Negative,Negative,Yes,Yes,Yes,No
+52.0,15.8,Married,Saudi,Postmenopausal,No,Other specified breast site,Right,Ductal,Unknown,Localized,Positive,Negative,Negative,Yes,No,No,Yes
+28.0,50.8,Married,Saudi,Postmenopausal,No,Upper outer quadrant,Left,Ductal,Unknown,In Situ,Negative,Positive,Unknown,Yes,Yes,No,No
+64.0,67.6,Married,Saudi,Unknown,No,Upper outer quadrant,Right,Ductal,Unknown,Localized,Unknown,Positive,Positive,Yes,Yes,Yes,No
+56.0,29.0,Married,Saudi,Premenopausal,No,Breast NOS,Left,Ductal,Unknown,Regional,Unknown,Positive,Unknown,Yes,Yes,No,No
+46.0,70.4,Single,Non-Saudi,Postmenopausal,No,Breast NOS,Left,Ductal,Unknown,Regional,Unknown,Unknown,Negative,No,Yes,Yes,No
+46.0,26.3,Married,Saudi,Postmenopausal,No,Other specified breast site,Left,Other,Grade 2,Localized,Positive,Unknown,Unknown,Yes,No,Yes,No
+52.0,10.6,Other,Saudi,Premenopausal,No,Other specified breast site,Right,Ductal,Grade 2,Localized,Unknown,Unknown,Unknown,No,Yes,No,No
+46.0,19.5,Married,Saudi,Postmenopausal,No,Breast NOS,Right,Other,Unknown,Regional,Unknown,Positive,Positive,Yes,Yes,No,No
+47.0,15.7,Single,Saudi,Premenopausal,No,Upper outer quadrant,Right,Ductal,Unknown,Regional,Negative,Positive,Negative,Yes,No,No,No
+57.0,24.1,Married,Saudi,Premenopausal,No,Other specified breast site,Right,Ductal,Unknown,Localized,Positive,Unknown,Unknown,Yes,No,No,No
+55.0,39.5,Single,Saudi,Postmenopausal,No,Upper outer quadrant,Left,Ductal,Grade 1,Localized,Unknown,Negative,Unknown,Yes,Yes,No,No
+48.0,16.8,Married,Saudi,Postmenopausal,No,Other specified breast site,Left,Ductal,Unknown,Regional,Unknown,Positive,Positive,No,Yes,Yes,No
+48.0,26.8,Married,Saudi,Premenopausal,No,Upper outer quadrant,Left,Ductal,Unknown,Regional,Unknown,Positive,Unknown,Yes,Yes,No,No
+51.0,31.2,Single,Saudi,Premenopausal,No,Upper outer quadrant,Left,Ductal,Unknown,Localized,Positive,Negative,Unknown,Yes,No,No,No
+42.0,18.7,Unknown,Saudi,Premenopausal,No,Upper outer quadrant,Right,Other,Unknown,Regional,Negative,Unknown,Unknown,Yes,Yes,No,No
+45.0,17.0,Single,Non-Saudi,Premenopausal,No,Other specified breast site,Right,Ductal,Unknown,Regional,Unknown,Unknown,Unknown,Yes,Yes,Yes,No
+55.0,,Married,Saudi,Postmenopausal,No,Other specified breast site,Left,Ductal,Unknown,Regional,Negative,Positive,Unknown,No,Yes,No,No
+48.0,45.2,Married,Non-Saudi,Premenopausal,No,Breast NOS,Left,Ductal,Grade 3,Regional,Unknown,Unknown,Unknown,No,No,Yes,Yes
+34.0,20.1,Married,Non-Saudi,Postmenopausal,Yes,Breast NOS,Left,Ductal,Grade 2,Regional,Unknown,Unknown,Unknown,No,Yes,Yes,No
+44.0,18.5,Married,Saudi,Postmenopausal,No,Upper outer quadrant,Right,Ductal,Grade 3,Regional,Positive,Unknown,Negative,Yes,Yes,No,No
+56.0,25.9,Married,Saudi,Unknown,No,Breast NOS,Left,Ductal,Grade 1,Regional,Negative,Positive,Unknown,Yes,Yes,Yes,No
+46.0,32.8,Unknown,Saudi,Premenopausal,No,Breast NOS,Right,Ductal,Unknown,Distant,Unknown,Positive,Unknown,Yes,Yes,No,Yes
+47.0,20.8,Married,Saudi,Premenopausal,No,Upper outer quadrant,Left,Ductal,Grade 2,Localized,Unknown,Unknown,Unknown,Yes,Yes,No,No
+56.0,23.3,Married,Saudi,Premenopausal,No,Other specified breast site,Right,Other,Grade 1,Distant,Positive,Positive,Negative,Yes,Yes,Yes,No
+69.0,24.7,Married,Saudi,Premenopausal,No,Upper outer quadrant,Right,Other,Unknown,Regional,Unknown,Negative,Unknown,Yes,No,No,No
+41.0,15.4,Married,Saudi,Premenopausal,No,Upper outer quadrant,Left,Lobular,Grade 3,Localized,Positive,Unknown,Negative,Yes,Yes,No,Yes
+64.0,25.4,Married,Saudi,Postmenopausal,No,Upper outer quadrant,Right,Ductal,Unknown,Regional,Unknown,Unknown,Negative,Yes,Yes,No,No
+35.0,20.6,Married,Saudi,Postmenopausal,No,Other specified breast site,Left,Ductal,Unknown,Distant,Negative,Unknown,Unknown,Yes,Yes,No,Yes
+51.0,66.9,Married,Saudi,Premenopausal,No,Upper outer quadrant,Right,Ductal,Grade 3,Regional,Unknown,Unknown,Unknown,No,Yes,Yes,No
+36.0,21.1,Single,Saudi,Premenopausal,No,Breast NOS,Left,Ductal,Grade 2,Distant,Positive,Unknown,Positive,Yes,Yes,Yes,No
+64.0,36.0,Unknown,Saudi,Premenopausal,Yes,Breast NOS,Left,Ductal,Unknown,Localized,Unknown,Unknown,Unknown,Yes,Yes,Yes,No
+58.0,34.5,Married,Saudi,Postmenopausal,No,Upper outer quadrant,Left,Ductal,Grade 2,In Situ,Unknown,Unknown,Unknown,No,Yes,No,No
+62.0,15.1,Married,Saudi,Premenopausal,No,Breast NOS,Left,Ductal,Unknown,Regional,Unknown,Positive,Unknown,Yes,No,Yes,Yes
+39.0,14.1,Single,Non-Saudi,Premenopausal,No,Other specified breast site,Right,Other,Unknown,Regional,Unknown,Positive,Negative,No,Yes,Yes,No
+57.0,21.9,Married,Saudi,Postmenopausal,No,Upper outer quadrant,Left,Other,Unknown,In Situ,Unknown,Unknown,Unknown,Yes,Yes,No,No
+43.0,40.3,Married,Saudi,Premenopausal,No,Other specified breast site,Right,Ductal,Unknown,Distant,Positive,Negative,Unknown,No,Yes,Yes,No
+44.0,20.4,Married,Saudi,Postmenopausal,No,Upper outer quadrant,Right,Ductal,Grade 2,Distant,Positive,Positive,Unknown,Yes,No,No,Yes
+55.0,19.5,Unknown,Saudi,Premenopausal,Unknown,Other specified breast site,Left,Ductal,Grade 3,Regional,Unknown,Unknown,Unknown,No,Yes,No,No
+59.0,,Single,Saudi,Postmenopausal,Yes,Breast NOS,Left,Other,Unknown,Localized,Positive,Unknown,Negative,No,Yes,No,No
+51.0,22.5,Married,Saudi,Premenopausal,Yes,Upper outer quadrant,Left,Ductal,Grade 2,In Situ,Unknown,Unknown,Unknown,Yes,Yes,No,No
+42.0,33.3,Married,Saudi,Premenopausal,No,Upper outer quadrant,Left,Ductal,Grade 3,Distant,Unknown,Negative,Unknown,Yes,Yes,Yes,No
+40.0,35.8,Other,Saudi,Postmenopausal,No,Upper outer quadrant,Left,Ductal,Unknown,Distant,Negative,Unknown,Negative,Yes,Yes,Yes,No
+65.0,35.5,Married,Saudi,Premenopausal,No,Upper outer quadrant,Right,Ductal,Grade 3,Regional,Unknown,Unknown,Negative,No,Yes,No,Yes
+56.0,23.4,Married,Saudi,Postmenopausal,Unknown,Upper outer quadrant,Left,Other,Grade 2,Regional,Negative,Unknown,Negative,Yes,Yes,No,No
+57.0,24.7,Single,Saudi,Unknown,No,Other specified breast site,Right,Unknown,Grade 3,Localized,Negative,Unknown,Unknown,Yes,No,Yes,No
+73.0,44.3,Single,Saudi,Premenopausal,No,Upper outer quadrant,Left,Ductal,Grade 2,Regional,Positive,Unknown,Negative,No,Yes,No,No
+40.0,26.0,Married,Saudi,Postmenopausal,Yes,Other specified breast site,Right,Ductal,Grade 1,Localized,Unknown,Unknown,Unknown,Yes,Yes,No,No
+77.0,7.9,Married,Non-Saudi,Postmenopausal,No,Upper outer quadrant,Right,Ductal,Unknown,Distant,Unknown,Positive,Positive,No,No,No,No
+84.0,,Married,Saudi,Premenopausal,No,Other specified breast site,Right,Lobular,Grade 3,In Situ,Negative,Positive,Unknown,Yes,No,Yes,No
+67.0,15.5,Unknown,Saudi,Postmenopausal,No,Other specified breast site,Left,Other,Grade 3,In Situ,Unknown,Positive,Unknown,No,Yes,Yes,No
+58.0,59.7,Married,Saudi,Premenopausal,Yes,Breast NOS,Right,Lobular,Grade 1,In Situ,Negative,Negative,Unknown,Yes,Yes,No,No
+42.0,,Married,Saudi,Premenopausal,No,Other specified breast site,Right,Ductal,Grade 3,Regional,Unknown,Unknown,Unknown,Yes,Yes,No,No
+60.0,,Single,Saudi,Premenopausal,No,Upper outer quadrant,Left,Ductal,Grade 2,Regional,Positive,Positive,Unknown,No,No,Yes,No
+44.0,46.0,Other,Non-Saudi,Postmenopausal,No,Other specified breast site,Right,Other,Grade 1,Localized,Unknown,Unknown,Negative,Yes,Yes,Yes,No
+49.0,77.8,Single,Saudi,Postmenopausal,No,Upper outer quadrant,Left,Other,Unknown,Localized,Unknown,Unknown,Unknown,Yes,Yes,Yes,No
+46.0,15.3,Married,Saudi,Postmenopausal,No,Upper outer quadrant,Left,Ductal,Unknown,Localized,Unknown,Positive,Unknown,Yes,Yes,Yes,No
+52.0,32.2,Married,Saudi,Postmenopausal,No,Upper outer quadrant,Left,Other,Grade 2,Regional,Unknown,Unknown,Unknown,Yes,No,No,No
+63.0,31.9,Married,Saudi,Unknown,No,Upper outer quadrant,Left,Ductal,Unknown,In Situ,Unknown,Unknown,Negative,Yes,Yes,Yes,Yes
+43.0,16.4,Single,Saudi,Premenopausal,No,Other specified breast site,Left,Ductal,Grade 3,Distant,Unknown,Positive,Negative,No,Yes,Yes,No
+38.0,84.7,Married,Saudi,Postmenopausal,No,Other specified breast site,Left,Other,Unknown,Distant,Unknown,Positive,Unknown,No,Yes,Yes,Yes
+38.0,20.3,Other,Saudi,Premenopausal,No,Breast NOS,Left,Ductal,Unknown,Localized,Positive,Unknown,Negative,No,Yes,No,No
+38.0,18.7,Other,Saudi,Premenopausal,No,Upper outer quadrant,Left,Ductal,Grade 2,Regional,Unknown,Unknown,Unknown,No,Yes,No,No
+33.0,32.4,Single,Saudi,Postmenopausal,Yes,Other specified breast site,Left,Ductal,Unknown,Localized,Negative,Positive,Positive,Yes,Yes,No,No
+39.0,,Married,Saudi,Postmenopausal,No,Other specified breast site,Right,Ductal,Unknown,Localized,Unknown,Negative,Negative,Yes,No,No,No
+63.0,20.1,Other,Saudi,Premenopausal,No,Breast NOS,Left,Ductal,Unknown,Localized,Negative,Negative,Unknown,Yes,No,No,No
+42.0,20.1,Single,Saudi,Premenopausal,Yes,Breast NOS,Left,Lobular,Grade 2,Regional,Negative,Positive,Unknown,Yes,Yes,Yes,No
+52.0,36.9,Single,Saudi,Postmenopausal,No,Other specified breast site,Unknown,Lobular,Grade 1,In Situ,Positive,Unknown,Unknown,Yes,Yes,No,No
+36.0,12.8,Married,Saudi,Postmenopausal,Yes,Upper outer quadrant,Left,Ductal,Unknown,Distant,Positive,Negative,Unknown,Yes,Yes,Yes,No
+51.0,18.3,Single,Saudi,Postmenopausal,Yes,Breast NOS,Right,Ductal,Unknown,Regional,Unknown,Unknown,Unknown,No,No,Yes,No
+30.0,17.7,Single,Saudi,Postmenopausal,No,Upper outer quadrant,Left,Lobular,Grade 3,Distant,Unknown,Negative,Unknown,Yes,Yes,Yes,No
+41.0,22.1,Married,Saudi,Premenopausal,No,Other specified breast site,Right,Other,Grade 3,Distant,Unknown,Unknown,Positive,Yes,Yes,Yes,No
+74.0,25.9,Married,Saudi,Premenopausal,No,Breast NOS,Left,Ductal,Grade 1,Regional,Unknown,Positive,Unknown,Yes,Yes,Yes,No
+43.0,77.2,Married,Non-Saudi,Postmenopausal,Unknown,Breast NOS,Right,Lobular,Grade 3,Regional,Unknown,Negative,Unknown,Yes,Yes,Yes,No
+61.0,46.1,Single,Saudi,Postmenopausal,No,Upper outer quadrant,Left,Lobular,Unknown,Regional,Unknown,Unknown,Unknown,Yes,Yes,No,No
+54.0,,Married,Non-Saudi,Premenopausal,No,Other specified breast site,Left,Ductal,Unknown,Localized,Positive,Positive,Negative,Yes,No,No,No
+47.0,24.7,Single,Non-Saudi,Premenopausal,Unknown,Upper outer quadrant,Left,Ductal,Unknown,Regional,Positive,Unknown,Unknown,Yes,No,No,No
+42.0,45.3,Married,Non-Saudi,Unknown,No,Upper outer quadrant,Left,Ductal,Grade 2,Localized,Unknown,Negative,Unknown,No,Yes,No,No
+63.0,35.4,Single,Unknown,Premenopausal,No,Breast NOS,Right,Ductal,Unknown,Localized,Unknown,Unknown,Unknown,Yes,Yes,Yes,No
+47.0,45.7,Married,Non-Saudi,Postmenopausal,No,Upper outer quadrant,Right,Ductal,Grade 3,Regional,Positive,Unknown,Unknown,Yes,Yes,No,No
+66.0,59.8,Unknown,Saudi,Premenopausal,No,Other specified breast site,Right,Ductal,Grade 2,Regional,Unknown,Unknown,Negative,Yes,Yes,Yes,No
+41.0,16.1,Married,Saudi,Postmenopausal,No,Upper outer quadrant,Left,Lobular,Grade 3,Localized,Unknown,Unknown,Negative,Yes,Yes,No,Yes
+50.0,8.1,Single,Non-Saudi,Premenopausal,No,Upper outer quadrant,Left,Other,Grade 3,Regional,Positive,Unknown,Unknown,Yes,Yes,Yes,No
+54.0,27.7,Married,Saudi,Postmenopausal,No,Breast NOS,Right,Other,Grade 2,Localized,Unknown,Positive,Positive,Yes,Yes,Yes,Yes
+53.0,,Single,Saudi,Unknown,No,Breast NOS,Left,Ductal,Unknown,Regional,Unknown,Unknown,Unknown,Yes,Yes,Yes,No
+35.0,32.8,Married,Unknown,Postmenopausal,No,Upper outer quadrant,Right,Other,Unknown,Localized,Positive,Unknown,Negative,Yes,Yes,Yes,No
+42.0,,Married,Saudi,Premenopausal,No,Other specified breast site,Right,Ductal,Unknown,Localized,Unknown,Unknown,Unknown,No,Yes,No,No
+47.0,24.6,Other,Saudi,Unknown,Yes,Upper outer quadrant,Right,Ductal,Unknown,Distant,Unknown,Unknown,Unknown,Yes,Yes,No,No
+40.0,,Married,Saudi,Postmenopausal,No,Upper outer quadrant,Left,Ductal,Unknown,Distant,Unknown,Negative,Unknown,No,Yes,Yes,No
+56.0,39.2,Married,Saudi,Postmenopausal,Yes,Upper outer quadrant,Left,Ductal,Unknown,Localized,Unknown,Negative,Positive,Yes,Yes,No,No
+55.0,58.2,Single,Saudi,Premenopausal,No,Breast NOS,Left,Other,Unknown,Localized,Positive,Positive,Unknown,Yes,No,No,No
+27.0,8.5,Married,Non-Saudi,Postmenopausal,No,Breast NOS,Right,Ductal,Unknown,Localized,Unknown,Unknown,Negative,No,Yes,Yes,Yes
+29.0,11.3,Single,Saudi,Unknown,No,Other specified breast site,Left,Ductal,Unknown,Regional,Unknown,Positive,Unknown,No,No,No,No
+35.0,,Other,Non-Saudi,Postmenopausal,No,Upper outer quadrant,Right,Ductal,Grade 2,Regional,Unknown,Unknown,Unknown,Yes,Yes,No,Yes
+50.0,39.1,Married,Saudi,Premenopausal,Yes,Upper outer quadrant,Left,Other,Grade 3,Localized,Unknown,Unknown,Negative,Yes,Yes,No,No
+71.0,43.3,Single,Non-Saudi,Unknown,No,Upper outer quadrant,Left,Ductal,Unknown,Distant,Unknown,Unknown,Unknown,Yes,Yes,No,No
+45.0,23.9,Married,Saudi,Premenopausal,No,Breast NOS,Left,Other,Unknown,Regional,Unknown,Unknown,Unknown,Yes,Yes,Yes,No
+52.0,21.6,Married,Saudi,Premenopausal,No,Upper outer quadrant,Right,Lobular,Grade 1,Distant,Negative,Unknown,Unknown,No,No,No,No
+37.0,31.3,Married,Non-Saudi,Unknown,No,Upper outer quadrant,Right,Ductal,Unknown,Distant,Unknown,Unknown,Unknown,No,Yes,No,No
+37.0,16.7,Married,Saudi,Postmenopausal,No,Breast NOS,Left,Lobular,Unknown,Regional,Unknown,Negative,Negative,No,No,Yes,No
+27.0,12.1,Single,Saudi,Premenopausal,No,Breast NOS,Right,Ductal,Grade 2,Localized,Positive,Unknown,Unknown,No,Yes,Yes,No
+49.0,15.2,Married,Non-Saudi,Postmenopausal,No,Other specified breast site,Left,Lobular,Unknown,Regional,Unknown,Unknown,Negative,Yes,Yes,Yes,No
+59.0,29.9,Unknown,Saudi,Unknown,No,Upper outer quadrant,Left,Ductal,Unknown,Localized,Unknown,Positive,Unknown,Yes,Yes,No,Yes
+45.0,39.8,Single,Saudi,Unknown,No,Upper outer quadrant,Left,Ductal,Grade 3,Regional,Positive,Negative,Unknown,Yes,Yes,No,No
+64.0,69.4,Married,Non-Saudi,Premenopausal,No,Other specified breast site,Left,Ductal,Unknown,Regional,Positive,Positive,Unknown,No,No,No,No
+51.0,34.4,Married,Saudi,Premenopausal,No,Upper outer quadrant,Left,Ductal,Grade 2,In Situ,Unknown,Positive,Positive,No,Yes,Yes,No
+49.0,36.3,Married,Non-Saudi,Premenopausal,No,Upper outer quadrant,Right,Unknown,Unknown,Regional,Unknown,Unknown,Unknown,Yes,No,Yes,No
+55.0,,Single,Saudi,Premenopausal,No,Breast NOS,Left,Ductal,Grade 3,In Situ,Unknown,Unknown,Negative,No,Yes,No,Yes
+54.0,18.3,Single,Saudi,Premenopausal,No,Upper outer quadrant,Right,Ductal,Grade 2,Distant,Positive,Positive,Unknown,No,No,Yes,No
+62.0,16.5,Single,Saudi,Premenopausal,No,Upper outer quadrant,Right,Ductal,Grade 1,Localized,Positive,Negative,Negative,No,No,No,No
+40.0,20.8,Married,Saudi,Postmenopausal,No,Upper outer quadrant,Left,Ductal,Grade 3,In Situ,Positive,Negative,Negative,Yes,Yes,No,No
+24.0,26.6,Married,Saudi,Postmenopausal,No,Upper outer quadrant,Right,Ductal,Grade 1,Regional,Unknown,Unknown,Negative,Yes,Yes,Yes,Yes
+50.0,85.2,Single,Saudi,Premenopausal,Yes,Upper outer quadrant,Right,Ductal,Grade 3,Regional,Positive,Unknown,Unknown,No,No,No,No
+42.0,23.1,Married,Saudi,Postmenopausal,No,Breast NOS,Right,Other,Unknown,Distant,Unknown,Positive,Negative,Yes,Yes,Yes,No
+49.0,57.5,Other,Saudi,Premenopausal,No,Breast NOS,Right,Lobular,Unknown,Regional,Positive,Unknown,Unknown,Yes,Yes,Yes,No
+67.0,21.6,Married,Saudi,Premenopausal,No,Breast NOS,Right,Ductal,Grade 3,Localized,Unknown,Positive,Unknown,Yes,No,Yes,Yes
+37.0,36.7,Married,Saudi,Postmenopausal,No,Upper outer quadrant,Right,Ductal,Unknown,Localized,Unknown,Unknown,Unknown,No,No,Yes,No
+57.0,,Single,Saudi,Premenopausal,No,Breast NOS,Right,Ductal,Grade 3,Unknown,Positive,Positive,Positive,Yes,Yes,Yes,No
+59.0,37.5,Other,Saudi,Premenopausal,No,Breast NOS,Right,Lobular,Unknown,In Situ,Unknown,Unknown,Negative,Yes,Yes,No,No
+54.0,42.3,Married,Saudi,Postmenopausal,No,Upper outer quadrant,Right,Ductal,Unknown,In Situ,Positive,Positive,Positive,Yes,Yes,No,No
+61.0,19.2,Married,Saudi,Premenopausal,No,Other specified breast site,Left,Other,Grade 3,In Situ,Unknown,Unknown,Unknown,Yes,Yes,No,No
+44.0,,Married,Saudi,Postmenopausal,No,Other specified breast site,Left,Other,Unknown,Regional,Unknown,Unknown,Negative,No,Yes,Yes,No
+42.0,48.0,Other,Saudi,Premenopausal,Yes,Upper outer quadrant,Right,Ductal,Grade 2,Localized,Unknown,Positive,Unknown,Yes,Yes,Yes,No
+60.0,19.0,Other,Saudi,Unknown,No,Breast NOS,Left,Ductal,Unknown,Distant,Positive,Unknown,Negative,Yes,Yes,No,Yes
+57.0,37.0,Married,Saudi,Premenopausal,No,Other specified breast site,Right,Ductal,Unknown,Regional,Unknown,Positive,Negative,Yes,Yes,Yes,No
+64.0,15.5,Married,Saudi,Unknown,Yes,Upper outer quadrant,Right,Ductal,Grade 2,Regional,Unknown,Positive,Unknown,Yes,Yes,No,Yes
+51.0,29.5,Other,Saudi,Postmenopausal,Yes,Other specified breast site,Left,Ductal,Unknown,Localized,Unknown,Negative,Unknown,Yes,Yes,Yes,Yes
+67.0,14.7,Married,Saudi,Unknown,No,Other specified breast site,Left,Ductal,Grade 2,Regional,Unknown,Unknown,Positive,Yes,No,No,No
+46.0,,Married,Saudi,Premenopausal,No,Upper outer quadrant,Right,Ductal,Unknown,Distant,Unknown,Unknown,Unknown,Yes,Yes,No,No
+37.0,,Married,Saudi,Premenopausal,No,Other specified breast site,Left,Ductal,Unknown,Distant,Positive,Positive,Unknown,Yes,No,No,No
+27.0,62.9,Single,Saudi,Premenopausal,No,Upper outer quadrant,Left,Ductal,Unknown,Localized,Unknown,Unknown,Negative,No,Yes,No,Yes
+37.0,41.9,Single,Saudi,Unknown,No,Upper outer quadrant,Right,Other,Unknown,In Situ,Positive,Unknown,Unknown,Yes,Yes,No,No
+58.0,17.0,Married,Saudi,Premenopausal,No,Upper outer quadrant,Right,Ductal,Grade 3,Regional,Negative,Positive,Negative,Yes,Yes,Yes,No
+33.0,34.5,Married,Saudi,Premenopausal,No,Upper outer quadrant,Right,Unknown,Unknown,Localized,Negative,Unknown,Positive,Yes,No,No,No
+44.0,53.7,Single,Saudi,Postmenopausal,Unknown,Upper outer quadrant,Right,Ductal,Grade 3,In Situ,Unknown,Unknown,Unknown,Yes,Yes,No,No
+72.0,26.7,Single,Saudi,Postmenopausal,No,Upper outer quadrant,Left,Ductal,Grade 3,Localized,Unknown,Unknown,Positive,No,Yes,No,No
+58.0,30.1,Single,Saudi,Postmenopausal,No,Other specified breast site,Right,Ductal,Grade 3,Localized,Unknown,Unknown,Unknown,Yes,Yes,Yes,No
+69.0,11.0,Single,Saudi,Premenopausal,No,Breast NOS,Right,Lobular,Unknown,Regional,Positive,Unknown,Unknown,Yes,Yes,Yes,No
+38.0,17.5,Single,Saudi,Premenopausal,No,Upper outer quadrant,Left,Other,Grade 2,Localized,Positive,Unknown,Unknown,No,Yes,Yes,No
+22.0,10.1,Single,Non-Saudi,Postmenopausal,No,Upper outer quadrant,Left,Ductal,Grade 2,Localized,Positive,Unknown,Negative,No,Yes,Yes,No
+66.0,80.3,Married,Saudi,Postmenopausal,No,Breast NOS,Left,Lobular,Unknown,Localized,Positive,Unknown,Unknown,Yes,Yes,No,Yes
+33.0,36.3,Married,Saudi,Premenopausal,No,Upper outer quadrant,Left,Ductal,Grade 2,Regional,Unknown,Unknown,Unknown,Yes,Yes,Yes,No
+50.0,,Married,Non-Saudi,Premenopausal,No,Other specified breast site,Right,Ductal,Unknown,Localized,Unknown,Unknown,Unknown,Yes,Yes,No,Yes
+51.0,25.0,Married,Saudi,Premenopausal,No,Other specified breast site,Right,Ductal,Unknown,Localized,Unknown,Unknown,Unknown,No,No,Yes,No
+39.0,12.5,Married,Non-Saudi,Premenopausal,No,Other specified breast site,Right,Ductal,Grade 2,Distant,Unknown,Unknown,Unknown,Yes,No,Yes,No
+66.0,30.8,Single,Saudi,Postmenopausal,No,Breast NOS,Right,Ductal,Grade 2,Regional,Positive,Positive,Negative,Yes,No,Yes,No
+66.0,19.7,Married,Saudi,Postmenopausal,No,Upper outer quadrant,Left,Ductal,Unknown,Localized,Unknown,Unknown,Negative,Yes,Yes,No,No
+55.0,16.4,Single,Saudi,Premenopausal,No,Upper outer quadrant,Left,Ductal,Grade 3,Localized,Unknown,Unknown,Unknown,Yes,No,No,No
+49.0,28.9,Married,Saudi,Postmenopausal,Yes,Breast NOS,Right,Ductal,Grade 3,Distant,Unknown,Negative,Negative,Yes,Yes,Yes,No
+51.0,29.7,Married,Saudi,Premenopausal,Yes,Other specified breast site,Left,Ductal,Unknown,Localized,Unknown,Positive,Positive,Yes,Yes,No,No
+37.0,25.4,Married,Saudi,Premenopausal,Unknown,Upper outer quadrant,Left,Ductal,Unknown,Regional,Unknown,Unknown,Negative,No,Yes,Yes,No
+46.0,18.3,Married,Saudi,Postmenopausal,Yes,Breast NOS,Right,Unknown,Grade 2,Regional,Positive,Unknown,Unknown,Yes,Yes,No,No
+48.0,16.3,Married,Saudi,Premenopausal,No,Breast NOS,Left,Ductal,Grade 2,Regional,Positive,Positive,Unknown,Yes,Yes,No,No
+40.0,28.1,Married,Saudi,Premenopausal,No,Breast NOS,Right,Ductal,Unknown,Localized,Negative,Unknown,Unknown,Yes,Yes,No,No
+58.0,54.8,Unknown,Saudi,Postmenopausal,Unknown,Upper outer quadrant,Right,Ductal,Unknown,Regional,Unknown,Negative,Negative,No,Yes,No,No
+33.0,11.6,Married,Saudi,Premenopausal,No,Upper outer quadrant,Left,Lobular,Grade 2,Localized,Unknown,Unknown,Negative,Yes,Yes,No,No
+44.0,19.5,Married,Non-Saudi,Unknown,No,Breast NOS,Right,Ductal,Grade 2,Regional,Unknown,Unknown,Negative,Yes,No,No,No
+24.0,25.6,Married,Saudi,Premenopausal,Yes,Other specified breast site,Right,Ductal,Grade 2,Distant,Negative,Unknown,Unknown,Yes,Yes,No,Yes
+54.0,25.7,Married,Saudi,Premenopausal,Unknown,Other specified breast site,Left,Ductal,Unknown,Localized,Unknown,Unknown,Unknown,No,Yes,No,No
+57.0,20.2,Married,Non-Saudi,Postmenopausal,No,Breast NOS,Left,Ductal,Unknown,Regional,Positive,Unknown,Unknown,Yes,Yes,Yes,No
+56.0,80.9,Married,Saudi,Postmenopausal,Yes,Other specified breast site,Left,Other,Unknown,Regional,Positive,Unknown,Negative,No,No,Yes,No
+81.0,34.9,Married,Saudi,Postmenopausal,No,Upper outer quadrant,Right,Other,Unknown,Regional,Positive,Unknown,Positive,Yes,Yes,No,No
+59.0,,Married,Non-Saudi,Premenopausal,No,Other specified breast site,Left,Ductal,Unknown,Regional,Positive,Unknown,Unknown,Yes,Yes,Yes,No
+39.0,9.9,Single,Saudi,Premenopausal,No,Breast NOS,Left,Ductal,Unknown,Localized,Unknown,Positive,Negative,Yes,No,Yes,No
+78.0,,Other,Saudi,Premenopausal,No,Other specified breast site,Left,Ductal,Unknown,Distant,Unknown,Positive,Positive,Yes,Yes,Yes,No
+39.0,63.2,Married,Saudi,Premenopausal,No,Upper outer quadrant,Left,Ductal,Grade 2,Distant,Positive,Unknown,Unknown,Yes,No,Yes,Yes
+58.0,31.1,Married,Saudi,Premenopausal,No,Other specified breast site,Right,Other,Grade 1,Regional,Negative,Positive,Unknown,Yes,Yes,No,No
+57.0,7.8,Married,Saudi,Premenopausal,No,Upper outer quadrant,Left,Unknown,Unknown,In Situ,Positive,Positive,Negative,Yes,Yes,Yes,No
+39.0,13.1,Married,Non-Saudi,Postmenopausal,No,Upper outer quadrant,Right,Ductal,Unknown,Regional,Unknown,Negative,Unknown,Yes,Yes,Yes,No
+64.0,30.0,Married,Saudi,Premenopausal,No,Upper outer quadrant,Right,Ductal,Grade 2,Regional,Unknown,Unknown,Unknown,Yes,No,No,No
+53.0,50.4,Single,Saudi,Unknown,No,Breast NOS,Left,Ductal,Unknown,Distant,Negative,Unknown,Unknown,Yes,Yes,Yes,No
+55.0,30.3,Married,Saudi,Postmenopausal,No,Other specified breast site,Right,Ductal,Grade 2,Regional,Unknown,Unknown,Unknown,Yes,Yes,Yes,No
+42.0,30.4,Single,Saudi,Premenopausal,No,Breast NOS,Left,Ductal,Unknown,Regional,Unknown,Unknown,Negative,Yes,Yes,Yes,No
+63.0,50.5,Married,Saudi,Postmenopausal,Yes,Upper outer quadrant,Left,Ductal,Grade 1,Regional,Negative,Unknown,Unknown,Yes,Yes,No,No
+40.0,55.9,Married,Saudi,Premenopausal,No,Upper outer quadrant,Left,Unknown,Grade 2,Localized,Unknown,Negative,Unknown,Yes,Yes,No,No
+29.0,19.3,Single,Saudi,Premenopausal,Unknown,Breast NOS,Right,Ductal,Unknown,Distant,Positive,Unknown,Unknown,No,Yes,No,No
+65.0,35.6,Married,Saudi,Premenopausal,No,Other specified breast site,Left,Other,Unknown,Regional,Unknown,Unknown,Unknown,Yes,No,No,No
+44.0,16.5,Other,Saudi,Premenopausal,Unknown,Breast NOS,Right,Ductal,Unknown,Regional,Unknown,Unknown,Negative,Yes,Yes,No,Yes
+49.0,15.5,Single,Saudi,Unknown,Unknown,Upper outer quadrant,Right,Other,Grade 3,Regional,Unknown,Unknown,Unknown,Yes,Yes,Yes,No
+70.0,38.7,Single,Saudi,Premenopausal,Yes,Upper outer quadrant,Right,Ductal,Unknown,Localized,Negative,Positive,Negative,No,Yes,Yes,No
+62.0,12.8,Married,Saudi,Postmenopausal,No,Other specified breast site,Left,Ductal,Grade 2,Regional,Unknown,Unknown,Negative,No,Yes,Yes,No
+56.0,30.7,Married,Saudi,Premenopausal,Yes,Upper outer quadrant,Right,Ductal,Grade 2,Localized,Positive,Unknown,Positive,Yes,No,No,No
+61.0,33.3,Married,Saudi,Postmenopausal,No,Upper outer quadrant,Left,Lobular,Grade 2,Localized,Positive,Negative,Positive,Yes,Yes,Yes,No
+41.0,45.0,Married,Saudi,Postmenopausal,Yes,Upper outer quadrant,Left,Ductal,Grade 2,Regional,Unknown,Positive,Unknown,Yes,No,Yes,No
+57.0,14.9,Other,Saudi,Premenopausal,No,Other specified breast site,Left,Ductal,Unknown,Regional,Positive,Unknown,Unknown,Yes,Yes,No,Yes
+61.0,34.5,Other,Saudi,Premenopausal,No,Other specified breast site,Left,Lobular,Unknown,Regional,Unknown,Unknown,Unknown,Yes,Yes,No,No
+57.0,26.1,Married,Saudi,Postmenopausal,No,Other specified breast site,Right,Ductal,Unknown,Distant,Positive,Positive,Unknown,No,Yes,Yes,No
+47.0,63.4,Single,Saudi,Premenopausal,No,Other specified breast site,Left,Ductal,Grade 2,Localized,Unknown,Unknown,Unknown,No,No,No,Yes
+22.0,,Single,Saudi,Postmenopausal,No,Breast NOS,Left,Ductal,Grade 1,Regional,Positive,Unknown,Unknown,Yes,Yes,No,No
+55.0,15.2,Married,Saudi,Unknown,No,Breast NOS,Left,Ductal,Unknown,Localized,Unknown,Unknown,Unknown,No,No,Yes,No
+50.0,36.9,Married,Saudi,Postmenopausal,No,Other specified breast site,Left,Other,Grade 2,Regional,Negative,Positive,Unknown,Yes,No,No,No
+45.0,17.5,Married,Saudi,Postmenopausal,No,Other specified breast site,Right,Other,Unknown,Regional,Unknown,Negative,Positive,Yes,No,Yes,No
+58.0,13.7,Married,Saudi,Premenopausal,No,Upper outer quadrant,Left,Ductal,Grade 2,Regional,Unknown,Unknown,Negative,Yes,No,Yes,No
+52.0,46.2,Single,Saudi,Premenopausal,Yes,Breast NOS,Right,Ductal,Unknown,Regional,Positive,Negative,Negative,Yes,No,Yes,No
+51.0,35.5,Single,Saudi,Postmenopausal,Yes,Other specified breast site,Left,Ductal,Unknown,Regional,Negative,Unknown,Unknown,Yes,Yes,No,No
+33.0,5.1,Married,Saudi,Postmenopausal,No,Upper outer quadrant,Left,Ductal,Grade 3,Regional,Positive,Positive,Unknown,No,Yes,Yes,No
+33.0,16.9,Other,Saudi,Postmenopausal,No,Upper outer quadrant,Left,Lobular,Grade 2,Distant,Unknown,Positive,Unknown,Yes,No,Yes,No
+53.0,15.2,Married,Non-Saudi,Postmenopausal,No,Upper outer quadrant,Left,Ductal,Unknown,Localized,Negative,Positive,Unknown,Yes,No,No,No
+50.0,,Married,Saudi,Premenopausal,No,Other specified breast site,Right,Ductal,Unknown,Localized,Positive,Negative,Unknown,Yes,No,Yes,No
+51.0,62.9,Married,Non-Saudi,Postmenopausal,No,Other specified breast site,Left,Other,Grade 1,Regional,Unknown,Unknown,Unknown,No,Yes,No,No
+51.0,86.8,Married,Saudi,Postmenopausal,No,Upper outer quadrant,Left,Other,Grade 2,Regional,Unknown,Unknown,Unknown,Yes,No,Yes,No
+54.0,41.3,Other,Non-Saudi,Premenopausal,Yes,Breast NOS,Left,Ductal,Unknown,Regional,Unknown,Negative,Unknown,No,Yes,No,No
+49.0,15.3,Single,Saudi,Premenopausal,No,Upper outer quadrant,Left,Ductal,Grade 2,Unknown,Positive,Negative,Unknown,Yes,Yes,Yes,No
+51.0,15.0,Married,Non-Saudi,Postmenopausal,No,Upper outer quadrant,Left,Ductal,Unknown,Regional,Unknown,Unknown,Unknown,Yes,Yes,No,Yes
+52.0,16.6,Other,Saudi,Premenopausal,No,Breast NOS,Right,Lobular,Grade 3,Distant,Unknown,Unknown,Unknown,Yes,Yes,Yes,No
+59.0,36.6,Other,Non-Saudi,Premenopausal,No,Other specified breast site,Right,Ductal,Unknown,In Situ,Unknown,Positive,Positive,No,Yes,No,No
+43.0,56.2,Married,Saudi,Premenopausal,No,Breast NOS,Left,Other,Unknown,Regional,Unknown,Unknown,Unknown,Yes,Yes,No,Yes
+58.0,9.8,Single,Saudi,Postmenopausal,No,Breast NOS,Left,Ductal,Grade 2,Regional,Negative,Unknown,Unknown,No,Yes,Yes,No
+56.0,,Unknown,Saudi,Premenopausal,No,Breast NOS,Left,Ductal,Unknown,Regional,Unknown,Negative,Negative,No,No,No,No
+50.0,,Married,Saudi,Postmenopausal,No,Other specified breast site,Left,Unknown,Unknown,Localized,Positive,Negative,Unknown,Yes,No,No,Yes
+44.0,33.3,Married,Saudi,Premenopausal,No,Other specified breast site,Right,Other,Grade 3,Localized,Positive,Unknown,Unknown,No,Yes,No,No
+53.0,,Single,Saudi,Premenopausal,No,Upper outer quadrant,Left,Ductal,Grade 1,Regional,Unknown,Unknown,Unknown,Yes,Yes,Yes,No
+59.0,37.6,Married,Saudi,Premenopausal,No,Other specified breast site,Left,Ductal,Unknown,In Situ,Negative,Unknown,Unknown,No,No,Yes,Yes
+37.0,28.5,Married,Saudi,Premenopausal,No,Upper outer quadrant,Right,Ductal,Unknown,Regional,Positive,Unknown,Unknown,Yes,Yes,No,No
+50.0,39.2,Married,Saudi,Unknown,No,Upper outer quadrant,Right,Ductal,Grade 2,Regional,Negative,Unknown,Positive,No,Yes,Yes,No
+50.0,20.8,Other,Saudi,Postmenopausal,No,Other specified breast site,Right,Other,Grade 1,Unknown,Positive,Positive,Negative,Yes,Yes,No,No
+42.0,,Other,Saudi,Postmenopausal,No,Upper outer quadrant,Right,Ductal,Grade 3,Distant,Unknown,Unknown,Unknown,Yes,Yes,No,No
+42.0,35.3,Married,Non-Saudi,Postmenopausal,No,Other specified breast site,Left,Ductal,Grade 1,Regional,Positive,Positive,Unknown,Yes,No,Yes,No
+32.0,52.8,Single,Saudi,Premenopausal,No,Breast NOS,Right,Ductal,Grade 3,Distant,Unknown,Negative,Negative,Yes,Yes,Yes,No
+37.0,24.6,Single,Saudi,Postmenopausal,No,Upper outer quadrant,Left,Ductal,Grade 1,Regional,Unknown,Positive,Positive,No,Yes,No,No
+32.0,46.6,Married,Unknown,Postmenopausal,No,Other specified breast site,Left,Ductal,Unknown,Regional,Positive,Unknown,Unknown,Yes,Yes,Yes,Yes
+42.0,22.8,Married,Saudi,Postmenopausal,No,Upper outer quadrant,Left,Ductal,Unknown,Regional,Positive,Negative,Unknown,No,Yes,No,Yes
+43.0,68.7,Married,Non-Saudi,Unknown,Yes,Upper outer quadrant,Left,Ductal,Grade 2,Regional,Unknown,Unknown,Unknown,Yes,Yes,No,No
+43.0,,Single,Saudi,Premenopausal,Yes,Upper outer quadrant,Right,Unknown,Unknown,Localized,Negative,Positive,Unknown,Yes,Yes,Yes,No
+53.0,37.6,Married,Saudi,Premenopausal,No,Upper outer quadrant,Right,Other,Grade 2,Localized,Unknown,Unknown,Unknown,Yes,Yes,No,No
+47.0,42.7,Single,Saudi,Unknown,No,Upper outer quadrant,Left,Ductal,Grade 2,Regional,Positive,Unknown,Negative,No,No,Yes,No
+41.0,13.3,Single,Saudi,Premenopausal,No,Other specified breast site,Right,Lobular,Grade 3,Regional,Unknown,Positive,Positive,Yes,Yes,Yes,No
+41.0,25.3,Unknown,Saudi,Unknown,No,Breast NOS,Left,Ductal,Grade 2,Localized,Unknown,Unknown,Positive,Yes,No,No,No
+37.0,77.1,Single,Saudi,Postmenopausal,No,Other specified breast site,Left,Other,Grade 3,Unknown,Positive,Positive,Unknown,Yes,Yes,No,No
+47.0,28.6,Married,Non-Saudi,Premenopausal,No,Breast NOS,Right,Ductal,Unknown,Regional,Positive,Positive,Unknown,Yes,Yes,Yes,Yes
+47.0,60.6,Married,Saudi,Postmenopausal,No,Breast NOS,Left,Ductal,Grade 3,Localized,Unknown,Unknown,Unknown,No,Yes,Yes,No
+67.0,45.5,Married,Saudi,Postmenopausal,No,Other specified breast site,Right,Ductal,Unknown,Regional,Unknown,Unknown,Unknown,Yes,Yes,No,No
+66.0,10.2,Married,Saudi,Premenopausal,No,Breast NOS,Right,Ductal,Unknown,Localized,Unknown,Unknown,Unknown,No,Yes,No,No
+65.0,41.3,Married,Saudi,Premenopausal,Unknown,Other specified breast site,Right,Other,Unknown,Regional,Unknown,Unknown,Negative,Yes,No,Yes,No
+72.0,15.4,Married,Saudi,Premenopausal,No,Upper outer quadrant,Right,Other,Grade 1,Localized,Unknown,Unknown,Unknown,Yes,Yes,Yes,No
+36.0,32.3,Married,Saudi,Unknown,No,Breast NOS,Left,Ductal,Unknown,Localized,Unknown,Unknown,Unknown,Yes,Yes,Yes,No
+56.0,,Married,Saudi,Postmenopausal,Yes,Other specified breast site,Left,Ductal,Grade 1,Localized,Unknown,Unknown,Positive,Yes,No,Yes,No
+57.0,28.3,Married,Saudi,Premenopausal,No,Breast NOS,Left,Ductal,Unknown,Regional,Positive,Unknown,Unknown,Yes,No,No,No
+54.0,26.9,Married,Saudi,Premenopausal,Yes,Upper outer quadrant,Right,Lobular,Grade 3,Regional,Unknown,Unknown,Unknown,Yes,Yes,Yes,Yes
+72.0,32.0,Other,Saudi,Postmenopausal,No,Breast NOS,Left,Other,Grade 1,Localized,Positive,Unknown,Negative,Yes,Yes,Yes,Yes
+77.0,21.9,Married,Saudi,Premenopausal,Unknown,Upper outer quadrant,Left,Lobular,Unknown,Regional,Unknown,Unknown,Positive,No,Yes,No,No
+60.0,13.3,Other,Saudi,Premenopausal,No,Upper outer quadrant,Right,Other,Grade 3,Regional,Positive,Unknown,Unknown,Yes,Yes,Yes,No
+56.0,,Married,Non-Saudi,Premenopausal,No,Other specified breast site,Left,Lobular,Grade 3,Regional,Unknown,Unknown,Unknown,Yes,Yes,No,No
+37.0,46.3,Married,Saudi,Unknown,No,Upper outer quadrant,Left,Ductal,Unknown,Regional,Unknown,Unknown,Unknown,Yes,Yes,No,Yes
+37.0,72.3,Married,Saudi,Postmenopausal,No,Other specified breast site,Left,Other,Unknown,Regional,Unknown,Unknown,Negative,Yes,Yes,No,No
+57.0,31.8,Single,Saudi,Premenopausal,No,Upper outer quadrant,Right,Ductal,Unknown,Distant,Unknown,Positive,Unknown,Yes,Yes,No,No
+48.0,44.5,Single,Saudi,Premenopausal,No,Upper outer quadrant,Right,Ductal,Grade 1,In Situ,Negative,Unknown,Unknown,Yes,No,Yes,Yes
+34.0,,Married,Saudi,Premenopausal,No,Breast NOS,Right,Ductal,Grade 1,Distant,Unknown,Unknown,Unknown,No,No,Yes,Yes
+48.0,13.2,Single,Saudi,Postmenopausal,Yes,Breast NOS,Left,Ductal,Grade 2,Localized,Positive,Positive,Unknown,Yes,No,Yes,No
+53.0,10.0,Married,Saudi,Premenopausal,No,Upper outer quadrant,Right,Ductal,Unknown,Localized,Unknown,Negative,Unknown,Yes,No,Yes,No
+59.0,,Single,Non-Saudi,Postmenopausal,No,Upper outer quadrant,Left,Ductal,Unknown,Regional,Unknown,Negative,Unknown,Yes,No,No,No
+48.0,9.9,Married,Saudi,Unknown,No,Breast NOS,Left,Ductal,Grade 2,Localized,Positive,Negative,Unknown,Yes,Yes,Yes,Yes
+46.0,24.1,Married,Saudi,Postmenopausal,Unknown,Other specified breast site,Right,Other,Grade 1,Regional,Negative,Positive,Unknown,Yes,No,Yes,No
+49.0,12.4,Married,Saudi,Premenopausal,No,Other specified breast site,Right,Lobular,Unknown,Regional,Unknown,Negative,Unknown,No,Yes,Yes,Yes
+51.0,19.9,Married,Saudi,Premenopausal,No,Breast NOS,Left,Ductal,Unknown,Distant,Unknown,Positive,Unknown,Yes,Yes,No,No
+36.0,18.5,Single,Saudi,Premenopausal,No,Breast NOS,Left,Ductal,Grade 2,Regional,Positive,Unknown,Unknown,Yes,Yes,No,No
+58.0,37.3,Married,Saudi,Postmenopausal,No,Other specified breast site,Left,Ductal,Grade 3,Regional,Unknown,Negative,Unknown,No,Yes,No,No
+73.0,19.6,Married,Saudi,Premenopausal,No,Breast NOS,Right,Ductal,Unknown,Regional,Unknown,Unknown,Unknown,No,Yes,No,No
+58.0,14.9,Married,Saudi,Premenopausal,No,Upper outer quadrant,Right,Ductal,Unknown,In Situ,Unknown,Unknown,Positive,Yes,No,Yes,No
+33.0,28.8,Married,Saudi,Postmenopausal,No,Breast NOS,Right,Ductal,Unknown,Regional,Unknown,Negative,Unknown,No,No,Yes,Yes
+50.0,140.0,Unknown,Saudi,Postmenopausal,No,Upper outer quadrant,Unknown,Ductal,Unknown,Distant,Unknown,Negative,Negative,No,No,Yes,No
+30.0,36.7,Single,Non-Saudi,Postmenopausal,No,Other specified breast site,Right,Ductal,Grade 3,Regional,Unknown,Unknown,Negative,Yes,No,Yes,Yes
+29.0,9.6,Single,Saudi,Premenopausal,No,Other specified breast site,Right,Lobular,Unknown,Regional,Unknown,Negative,Unknown,No,Yes,No,No
+56.0,29.4,Married,Saudi,Premenopausal,No,Upper outer quadrant,Left,Ductal,Grade 2,Localized,Unknown,Unknown,Unknown,Yes,Yes,No,No
+50.0,115.2,Married,Saudi,Postmenopausal,Unknown,Breast NOS,Left,Ductal,Grade 2,Regional,Unknown,Unknown,Unknown,Yes,Yes,No,No
+41.0,30.7,Married,Saudi,Premenopausal,No,Other specified breast site,Left,Ductal,Unknown,Regional,Positive,Negative,Unknown,No,Yes,Yes,No
+26.0,56.6,Single,Saudi,Premenopausal,No,Breast NOS,Left,Ductal,Unknown,Regional,Unknown,Unknown,Positive,Yes,Yes,Yes,No
+35.0,51.6,Married,Saudi,Postmenopausal,No,Upper outer quadrant,Right,Other,Unknown,Localized,Unknown,Unknown,Unknown,No,Yes,No,No
+51.0,53.8,Married,Saudi,Unknown,No,Other specified breast site,Right,Ductal,Grade 3,Localized,Unknown,Unknown,Negative,No,Yes,No,No
+49.0,49.9,Single,Saudi,Postmenopausal,Unknown,Upper outer quadrant,Right,Other,Unknown,Regional,Unknown,Unknown,Negative,Yes,Yes,No,No
+57.0,32.7,Married,Saudi,Unknown,No,Upper outer quadrant,Right,Ductal,Unknown,Regional,Unknown,Positive,Unknown,Yes,Yes,Yes,No
+66.0,25.3,Married,Saudi,Postmenopausal,No,Other specified breast site,Right,Other,Unknown,Distant,Negative,Unknown,Unknown,Yes,No,Yes,Yes
+45.0,24.0,Married,Saudi,Premenopausal,No,Breast NOS,Left,Ductal,Grade 3,Regional,Unknown,Unknown,Unknown,Yes,Yes,No,No
+54.0,29.9,Married,Saudi,Postmenopausal,No,Other specified breast site,Left,Other,Grade 2,Localized,Unknown,Negative,Negative,Yes,Yes,No,No
+47.0,35.4,Married,Saudi,Postmenopausal,No,Other specified breast site,Right,Ductal,Grade 2,Regional,Negative,Unknown,Unknown,Yes,No,No,No
+44.0,13.9,Married,Saudi,Premenopausal,No,Breast NOS,Left,Ductal,Grade 3,Localized,Unknown,Unknown,Positive,No,Yes,Yes,No
+46.0,24.0,Unknown,Saudi,Unknown,No,Upper outer quadrant,Left,Ductal,Grade 1,Regional,Unknown,Positive,Positive,Yes,No,No,No
+60.0,27.4,Single,Saudi,Unknown,Yes,Breast NOS,Right,Ductal,Grade 2,Regional,Positive,Unknown,Unknown,Yes,No,No,No
+38.0,,Married,Saudi,Premenopausal,No,Breast NOS,Left,Ductal,Grade 3,Regional,Positive,Unknown,Unknown,Yes,Yes,Yes,No
+62.0,23.6,Single,Saudi,Premenopausal,No,Other specified breast site,Left,Ductal,Grade 3,Regional,Unknown,Positive,Negative,Yes,Yes,Yes,No
+65.0,,Married,Saudi,Premenopausal,No,Upper outer quadrant,Right,Other,Grade 2,Regional,Positive,Unknown,Unknown,Yes,Yes,No,No
+49.0,26.4,Single,Saudi,Postmenopausal,No,Breast NOS,Left,Ductal,Grade 3,Localized,Positive,Unknown,Unknown,Yes,Yes,No,No
+52.0,22.8,Married,Saudi,Premenopausal,Yes,Breast NOS,Left,Ductal,Grade 2,Localized,Negative,Unknown,Unknown,Yes,Yes,Yes,No
+33.0,14.2,Single,Saudi,Premenopausal,No,Upper outer quadrant,Right,Ductal,Unknown,Regional,Unknown,Unknown,Unknown,No,Yes,Yes,No
+75.0,18.3,Unknown,Saudi,Unknown,No,Upper outer quadrant,Left,Ductal,Grade 2,Regional,Negative,Unknown,Positive,Yes,No,Yes,Yes
+60.0,31.8,Unknown,Non-Saudi,Postmenopausal,No,Other specified breast site,Left,Ductal,Grade 2,Distant,Unknown,Negative,Positive,Yes,No,Yes,No
+51.0,29.9,Married,Saudi,Unknown,Yes,Other specified breast site,Right,Ductal,Unknown,In Situ,Positive,Unknown,Positive,Yes,No,No,No
+50.0,9.1,Married,Saudi,Postmenopausal,No,Upper outer quadrant,Left,Ductal,Grade 3,Distant,Positive,Positive,Negative,No,No,No,No
+54.0,46.6,Married,Saudi,Premenopausal,Yes,Breast NOS,Right,Ductal,Grade 2,Localized,Unknown,Unknown,Positive,Yes,Yes,Yes,No
+42.0,19.0,Married,Saudi,Postmenopausal,No,Other specified breast site,Right,Ductal,Unknown,Regional,Unknown,Negative,Negative,Yes,No,No,No
+52.0,17.0,Married,Saudi,Premenopausal,No,Other specified breast site,Unknown,Ductal,Unknown,Regional,Positive,Negative,Unknown,Yes,Yes,No,No
+39.0,51.7,Married,Saudi,Unknown,No,Upper outer quadrant,Left,Ductal,Grade 2,Unknown,Positive,Unknown,Unknown,Yes,Yes,Yes,No
+54.0,53.1,Other,Saudi,Premenopausal,No,Other specified breast site,Left,Lobular,Unknown,Localized,Positive,Unknown,Unknown,Yes,Yes,Yes,No
+42.0,18.9,Married,Saudi,Premenopausal,Unknown,Upper outer quadrant,Left,Ductal,Grade 3,In Situ,Unknown,Negative,Positive,Yes,No,Yes,No
+59.0,23.0,Married,Saudi,Postmenopausal,No,Other specified breast site,Right,Ductal,Unknown,Regional,Unknown,Unknown,Unknown,Yes,Yes,No,No
+48.0,14.3,Single,Saudi,Premenopausal,No,Upper outer quadrant,Right,Ductal,Unknown,Regional,Unknown,Unknown,Negative,Yes,Yes,Yes,No
+52.0,43.8,Single,Saudi,Premenopausal,Yes,Upper outer quadrant,Right,Ductal,Grade 2,Distant,Negative,Unknown,Unknown,Yes,No,No,No
+82.0,46.1,Married,Saudi,Premenopausal,Yes,Breast NOS,Left,Unknown,Grade 3,Distant,Unknown,Positive,Unknown,Yes,No,Yes,No
+58.0,22.0,Married,Saudi,Premenopausal,No,Upper outer quadrant,Left,Ductal,Grade 3,Regional,Positive,Positive,Unknown,No,Yes,Yes,No
+52.0,60.2,Married,Saudi,Postmenopausal,Yes,Other specified breast site,Right,Lobular,Grade 3,Unknown,Positive,Negative,Unknown,No,Yes,No,No
